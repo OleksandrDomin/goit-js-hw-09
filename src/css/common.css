@@ -16,3 +16,27 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.timer{
+  display: flex
+}
+
+.field
+{
+  margin-left: 20px;
+}
+
+.value {
+font-size: 40px;
+font-weight: 600;
+}
+
+.label
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+  color:darkred;
+}
+
+.nasha {color: gold;}
+.peremoga { color: blue;}
